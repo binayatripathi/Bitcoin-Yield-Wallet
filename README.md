@@ -5,6 +5,9 @@
 [![coverage](https://raw.githubusercontent.com/hirosystems/wallet/gh-pages/badge.svg)](https://hirosystems.github.io/wallet/)
 [![semantic-release](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg)](https://github.com/semantic-release/semantic-release)
 
+***Testing Hiro Wallet and Lnswap Integration ***
+
+
 Hiro Wallet is the most popular and trusted wallet for apps built on Bitcoin. Connect to apps and manage assets secured by Bitcoin and Bitcoin L2s with battle-tested wallet for the Stacks blockchain.
 
 To integrate this wallet into your app, we recommend [@stacks/connect](https://github.com/hirosystems/connect).
